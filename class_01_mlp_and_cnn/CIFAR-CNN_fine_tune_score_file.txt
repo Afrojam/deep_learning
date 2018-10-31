@@ -1,0 +1,32 @@
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.2451100965976716
+Accuracy 0.7719
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.2_dropout_Adamax: 
+Loss 0.7494838192939758
+Accuracy 0.8032
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.4_dropout_Adamax: 
+Loss 0.5420772092819214
+Accuracy 0.8206
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.6_dropout_Adamax: 
+Loss 0.758850505065918
+Accuracy 0.7413
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.0_dropout_batch_normalization_Adamax: 
+Loss 1.104218448662758
+Accuracy 0.7784
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.2_dropout_batch_normalization_Adamax: 
+Loss 0.8559861063957215
+Accuracy 0.8066
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.4_dropout_batch_normalization_Adamax: 
+Loss 0.7185739472389221
+Accuracy 0.7851
+
+Scores for neural network model cnn_cifar_fine_tuned_3_hidden_layers_512_neurons_he_normal_0.6_dropout_batch_normalization_Adamax: 
+Loss 3.4191513832092286
+Accuracy 0.2533
+

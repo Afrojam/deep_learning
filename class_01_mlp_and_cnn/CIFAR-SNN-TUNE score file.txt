@@ -1,0 +1,4 @@
+Scores for neural network model snn_cifar_cifar__2_hidden_layers_110_neurons_glorot_normal_0.4_dropout_0.0_regularization_Adam: 
+Loss 1.338327705001831
+Accuracy 0.5233
+

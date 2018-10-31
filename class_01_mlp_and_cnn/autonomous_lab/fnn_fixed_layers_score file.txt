@@ -1,0 +1,4 @@
+Scores for neural network with 3 layers: 
+Loss 1.4640081039428712
+Accuracy 0.4078
+

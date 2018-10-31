@@ -1,0 +1,172 @@
+Scores for neural network with 3 layers: 
+Loss 1.4639397104263305
+Accuracy 0.4077
+
+Scores for neural network with 3 layers: 
+Loss 1.530154317855835
+Accuracy 0.3988
+
+Scores for neural network with 3 layers: 
+Loss 1.5198122789382935
+Accuracy 0.3601
+
+Scores for neural network with 3 layers: 
+Loss 1.0997824954986573
+Accuracy 0.5603
+
+Scores for neural network with 3 layers: 
+Loss 0.1468420515347272
+Accuracy 0.9565
+
+Scores for neural network with 3 layers: 
+Loss 0.14616309655085205
+Accuracy 0.9543
+
+Scores for neural network with 3 layers: 
+Loss 0.14884459663294256
+Accuracy 0.9568
+
+Scores for neural network with 3 layers: 
+Loss 0.14949179510623217
+Accuracy 0.9546
+
+Scores for neural network with 3 layers: 
+Loss 0.13580373194105924
+Accuracy 0.96
+
+Scores for neural network with 3 layers: 
+Loss 0.14078615290001034
+Accuracy 0.9575
+
+Scores for neural network with 3 layers: 
+Loss 0.14655653201304375
+Accuracy 0.957
+
+Scores for neural network with 3 layers: 
+Loss 0.14315690243914722
+Accuracy 0.9574
+
+Scores for neural network with 3 layers: 
+Loss 0.1352582878150046
+Accuracy 0.9598
+
+Scores for neural network with 3 layers: 
+Loss 0.14245339458547532
+Accuracy 0.9592
+
+Scores for neural network with 3 layers: 
+Loss 0.1434291264820844
+Accuracy 0.9571
+
+Scores for neural network with 3 layers: 
+Loss 0.14558742444515227
+Accuracy 0.9548
+
+Scores for neural network with 3 layers: 
+Loss 0.1407770813174546
+Accuracy 0.9592
+
+Scores for neural network with 3 layers: 
+Loss 0.13903319417238236
+Accuracy 0.9587
+
+Scores for neural network with 3 layers: 
+Loss 0.13831897714212538
+Accuracy 0.9583
+
+Scores for neural network with 3 layers: 
+Loss 0.1575340878840536
+Accuracy 0.9531
+
+Scores for neural network with 3 layers: 
+Loss 0.1399359297335148
+Accuracy 0.958
+
+Scores for neural network with 3 layers: 
+Loss 0.14216068362109363
+Accuracy 0.959
+
+Scores for neural network with 3 layers: 
+Loss 0.14121223743110894
+Accuracy 0.9582
+
+Scores for neural network with 3 layers: 
+Loss 0.13481941747143864
+Accuracy 0.9595
+
+Scores for neural network with 3 layers: 
+Loss 0.13918305578306317
+Accuracy 0.9586
+
+Scores for neural network with 3 layers: 
+Loss 0.13654800636284053
+Accuracy 0.9591
+
+Scores for neural network with 3 layers: 
+Loss 0.14412282282710076
+Accuracy 0.9557
+
+Scores for neural network with 3 layers: 
+Loss 0.1433130400158465
+Accuracy 0.9585
+
+Scores for neural network with 3 layers: 
+Loss 0.14750373494587837
+Accuracy 0.9564
+
+Scores for neural network with 3 layers: 
+Loss 0.1405283884316683
+Accuracy 0.9589
+
+Scores for neural network with 3 layers: 
+Loss 0.14422395906932653
+Accuracy 0.9582
+
+Scores for neural network with 3 layers: 
+Loss 0.13862635937035084
+Accuracy 0.9597
+
+Scores for neural network with 3 layers: 
+Loss 0.14126257506981493
+Accuracy 0.9571
+
+Scores for neural network with 3 layers: 
+Loss 0.14335885677225887
+Accuracy 0.9565
+
+Scores for neural network with 3 layers: 
+Loss 0.1475000148911029
+Accuracy 0.9555
+
+Scores for neural network with 3 layers: 
+Loss 0.1425582036074251
+Accuracy 0.9566
+
+Scores for neural network with 3 layers: 
+Loss 0.1531188539609313
+Accuracy 0.9559
+
+Scores for neural network with 3 layers: 
+Loss 0.14652363625317813
+Accuracy 0.9555
+
+Scores for neural network with 3 layers: 
+Loss 0.14483497950434684
+Accuracy 0.9573
+
+Scores for neural network with 3 layers: 
+Loss 0.14504508176371456
+Accuracy 0.9565
+
+Scores for neural network with 3 layers: 
+Loss 0.14528199487254023
+Accuracy 0.9565
+
+Scores for neural network with 3 layers: 
+Loss 0.13442137455269695
+Accuracy 0.9596
+
+Scores for neural network with 3 layers: 
+Loss 0.14277164944894613
+Accuracy 0.9588
+

@@ -1,0 +1,40 @@
+Scores for neural network with 1 layers: 
+Loss 0.221604138854146
+Accuracy 0.9361
+
+Scores for neural network with 2 layers: 
+Loss 0.16531205337867141
+Accuracy 0.9521
+
+Scores for neural network with 3 layers: 
+Loss 0.13873824912756683
+Accuracy 0.9595
+
+Scores for neural network with 4 layers: 
+Loss 0.12423384180106223
+Accuracy 0.9622
+
+Scores for neural network with 5 layers: 
+Loss 0.12548960945028811
+Accuracy 0.9638
+
+Scores for neural network with 6 layers: 
+Loss 0.11167930886140093
+Accuracy 0.9662
+
+Scores for neural network with 7 layers: 
+Loss 0.15873510389998555
+Accuracy 0.9546
+
+Scores for neural network with 8 layers: 
+Loss 0.1595581104334444
+Accuracy 0.9531
+
+Scores for neural network with 9 layers: 
+Loss 0.11930590089596808
+Accuracy 0.9646
+
+Scores for neural network with 10 layers: 
+Loss 0.13322148931883276
+Accuracy 0.9628
+

@@ -1,0 +1,1440 @@
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0792668292999268
+Accuracy 0.6262
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0555035557746888
+Accuracy 0.64
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0957968034744263
+Accuracy 0.6196
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.1045517951011659
+Accuracy 0.6166
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0716594230651855
+Accuracy 0.6302
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.044942259979248
+Accuracy 0.6382
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0862326068878174
+Accuracy 0.6276
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0037925590515138
+Accuracy 0.6551
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0484825525283814
+Accuracy 0.6453
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0361016654968263
+Accuracy 0.6407
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.3576633560180664
+Accuracy 0.5068
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.1829939517974855
+Accuracy 0.577
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.110301064491272
+Accuracy 0.6076
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.1230109687805176
+Accuracy 0.6126
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9774002654075623
+Accuracy 0.6658
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0673458625793457
+Accuracy 0.6441
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9423844224929809
+Accuracy 0.6841
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9776591802597046
+Accuracy 0.6625
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9559376664161682
+Accuracy 0.6731
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.035244780921936
+Accuracy 0.6526
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.4139777784347534
+Accuracy 0.4819
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.413120196723938
+Accuracy 0.4839
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.19763570728302
+Accuracy 0.5726
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.057195327758789
+Accuracy 0.6248
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.0577749357223512
+Accuracy 0.631
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9445596960067749
+Accuracy 0.6849
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 1.014902592754364
+Accuracy 0.6679
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9031548069953919
+Accuracy 0.7024
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9156465410232544
+Accuracy 0.704
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_SGD: 
+Loss 0.9168850325584411
+Accuracy 0.7047
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.090061678981781
+Accuracy 0.6261
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0906649260520935
+Accuracy 0.6254
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.1639630233764648
+Accuracy 0.5867
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.1092889085769653
+Accuracy 0.6117
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0924246109008788
+Accuracy 0.6173
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0708532737731933
+Accuracy 0.635
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0406005048751832
+Accuracy 0.6467
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0982508958816528
+Accuracy 0.6159
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0564077666282654
+Accuracy 0.6421
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0823289665222169
+Accuracy 0.6234
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.3783671583175658
+Accuracy 0.513
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.223229822731018
+Accuracy 0.5643
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.1376419519424439
+Accuracy 0.609
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.0398911186218263
+Accuracy 0.6359
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9607775319099426
+Accuracy 0.6771
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9790888929367065
+Accuracy 0.6752
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9657167928695679
+Accuracy 0.6752
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9534194469451904
+Accuracy 0.6737
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9822955587387084
+Accuracy 0.6761
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9059679622650146
+Accuracy 0.6987
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.5049837491989135
+Accuracy 0.4591
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.3457956491470338
+Accuracy 0.5199
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.214133027458191
+Accuracy 0.5726
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.024199866580963
+Accuracy 0.6421
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_SGD: 
+Loss 1.018025064086914
+Accuracy 0.6514
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9401282610893249
+Accuracy 0.6783
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9133134369850159
+Accuracy 0.701
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9947377491950988
+Accuracy 0.6836
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9372153948783875
+Accuracy 0.7017
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_SGD: 
+Loss 0.9455557161331177
+Accuracy 0.6822
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1004964040756227
+Accuracy 0.6462
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.082522273349762
+Accuracy 0.6442
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.2084296672821044
+Accuracy 0.5927
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.0874847955703735
+Accuracy 0.6286
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1606427059173583
+Accuracy 0.6306
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1756478724479675
+Accuracy 0.6339
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.2152830680847169
+Accuracy 0.614
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1654538270950316
+Accuracy 0.6173
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.155739736366272
+Accuracy 0.6206
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1818698598861694
+Accuracy 0.6081
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1655874975204468
+Accuracy 0.5899
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.1808761512756347
+Accuracy 0.5826
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.0591686688423156
+Accuracy 0.6365
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.0356299016952515
+Accuracy 0.6481
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9833951251029969
+Accuracy 0.6745
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9640026562690734
+Accuracy 0.6921
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9603688466072082
+Accuracy 0.6991
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9451013133049011
+Accuracy 0.681
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.0160116439819336
+Accuracy 0.6898
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9574448674201965
+Accuracy 0.6964
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.5003501379013062
+Accuracy 0.4609
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.119110304260254
+Accuracy 0.6052
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 1.0087585147857665
+Accuracy 0.6511
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.9263819871902466
+Accuracy 0.691
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.8925378638267517
+Accuracy 0.6931
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.865296618270874
+Accuracy 0.7296
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.8927841720581055
+Accuracy 0.7142
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.8675619653701783
+Accuracy 0.7235
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.898638260269165
+Accuracy 0.7109
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_Default: 
+Loss 0.8527562381267547
+Accuracy 0.7204
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.2016209087371825
+Accuracy 0.6198
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.144976874256134
+Accuracy 0.63
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1132051540374757
+Accuracy 0.6185
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1997756262779236
+Accuracy 0.6249
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1773699068069459
+Accuracy 0.6165
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.181644214630127
+Accuracy 0.6091
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1282209072113036
+Accuracy 0.6384
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.2205972217559815
+Accuracy 0.6083
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1483083004951478
+Accuracy 0.6416
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1092127895355224
+Accuracy 0.6241
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1913610250473023
+Accuracy 0.5796
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.1279972681999206
+Accuracy 0.6051
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.041949375152588
+Accuracy 0.6441
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.0003317873001099
+Accuracy 0.6714
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9628437499046326
+Accuracy 0.6911
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9700678178787231
+Accuracy 0.6899
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9560815216064453
+Accuracy 0.6775
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9198716722488404
+Accuracy 0.6961
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9286657375335693
+Accuracy 0.6995
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9841299021720886
+Accuracy 0.7023
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.4415159866333007
+Accuracy 0.464
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.2207518095016479
+Accuracy 0.5585
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.0188964577674866
+Accuracy 0.644
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.9016917132377624
+Accuracy 0.6911
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.8640459031105041
+Accuracy 0.7127
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.826862467956543
+Accuracy 0.7296
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.8204112447738647
+Accuracy 0.7266
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 0.878586479473114
+Accuracy 0.7146
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 1.0379093497276306
+Accuracy 0.705
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_Default: 
+Loss 14.506285620117188
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0252174162864685
+Accuracy 0.6467
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1465410192489625
+Accuracy 0.6309
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1550145195961
+Accuracy 0.6314
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.2179823427200318
+Accuracy 0.5994
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.130875761604309
+Accuracy 0.6204
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.204088870048523
+Accuracy 0.6016
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1814635320663451
+Accuracy 0.6229
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.2264050806045532
+Accuracy 0.5894
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1106689425468446
+Accuracy 0.6331
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.158455551147461
+Accuracy 0.6078
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 2.3025952907562255
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.2376190969467162
+Accuracy 0.5669
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0069878458976746
+Accuracy 0.6666
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0045049874305725
+Accuracy 0.6654
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0487746032714844
+Accuracy 0.6369
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.997301997756958
+Accuracy 0.6604
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9863769263267517
+Accuracy 0.6696
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.992930984210968
+Accuracy 0.6856
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9493930341720581
+Accuracy 0.697
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9088600528717041
+Accuracy 0.7235
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.4255244684219361
+Accuracy 0.4819
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.3639386566162108
+Accuracy 0.5174
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0345362354278564
+Accuracy 0.6387
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9102723980903625
+Accuracy 0.694
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9193718996047974
+Accuracy 0.6987
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8727866225242614
+Accuracy 0.7137
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8514569087028503
+Accuracy 0.7172
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8914020474433899
+Accuracy 0.7309
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9267990149497985
+Accuracy 0.7095
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8843200078010559
+Accuracy 0.722
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1522558772087097
+Accuracy 0.6348
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.172952650642395
+Accuracy 0.6019
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0859477690696717
+Accuracy 0.6408
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0673888412475585
+Accuracy 0.6571
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.234681711769104
+Accuracy 0.5809
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.165746520614624
+Accuracy 0.6192
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.15532225151062
+Accuracy 0.6062
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.204540631866455
+Accuracy 0.6244
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1871814764022828
+Accuracy 0.6085
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.2111276874542236
+Accuracy 0.59
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.184521955680847
+Accuracy 0.5847
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.2303605152130126
+Accuracy 0.5649
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0155267737388611
+Accuracy 0.6578
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9558561056137085
+Accuracy 0.6796
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9504469483375549
+Accuracy 0.6846
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.0280343770980835
+Accuracy 0.653
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.932282234287262
+Accuracy 0.6958
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9437786690711976
+Accuracy 0.7072
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9390536411285401
+Accuracy 0.6954
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9354728701591492
+Accuracy 0.715
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.236740421104431
+Accuracy 0.5574
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 1.1194648612976075
+Accuracy 0.6061
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9770696297645569
+Accuracy 0.6619
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.9022168912887574
+Accuracy 0.6935
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8807964244842529
+Accuracy 0.6969
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8534330073356629
+Accuracy 0.722
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.846637699508667
+Accuracy 0.7261
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8324744769573211
+Accuracy 0.7225
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.853487519454956
+Accuracy 0.7373
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adam_amsgrad: 
+Loss 0.8638986422538757
+Accuracy 0.7241
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.179890106678009
+Accuracy 0.6402
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.4375675777435302
+Accuracy 0.5162
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.430147639274597
+Accuracy 0.5069
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.3512785415649413
+Accuracy 0.5479
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.572946215248108
+Accuracy 0.4421
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.3483154320716857
+Accuracy 0.5469
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.4053047490119934
+Accuracy 0.5056
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026419158935547
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.3181315620422362
+Accuracy 0.5572
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026505546569824
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026230880737306
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026748123168947
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.302632711791992
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026105575561524
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.1323823776245117
+Accuracy 0.6211
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.1704713718414306
+Accuracy 0.5994
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.086492921447754
+Accuracy 0.6353
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.302639697265625
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 14.506285661315918
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 14.506285665893556
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026416862487795
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026179298400877
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.2604957096099854
+Accuracy 0.5563
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.2453212341308593
+Accuracy 0.5555
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.0510105613708496
+Accuracy 0.6401
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 1.0659907594680786
+Accuracy 0.6326
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 14.506285661315918
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 2.3026344367980958
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 14.506285665893556
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Nadam: 
+Loss 14.506285708618163
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.572173440170288
+Accuracy 0.4346
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026206047058104
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026214836120604
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.4366060188293457
+Accuracy 0.5061
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.4328434930801393
+Accuracy 0.4963
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026152992248536
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.5800831134796143
+Accuracy 0.4608
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.3906031648635864
+Accuracy 0.5212
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.4686755062103272
+Accuracy 0.4893
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.3429752305984497
+Accuracy 0.5361
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.302642798233032
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026353378295896
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.1785473081588744
+Accuracy 0.5863
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026150257110594
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.1171354160308837
+Accuracy 0.615
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.2161379583358765
+Accuracy 0.5808
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.1247368120193482
+Accuracy 0.6242
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.3026704727172853
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 14.506285620117188
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 14.506285708618163
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 2.302611526107788
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.3891791660308839
+Accuracy 0.5056
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.1196455501556397
+Accuracy 0.6041
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.2464915899276734
+Accuracy 0.5581
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 0.933769269657135
+Accuracy 0.6858
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.1267939186096192
+Accuracy 0.6126
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 1.108617871284485
+Accuracy 0.6356
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 14.506285620117188
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 14.506285665893556
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_Nadam: 
+Loss 14.506285708618163
+Accuracy 0.1
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0629146005630492
+Accuracy 0.6562
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.22766803855896
+Accuracy 0.6317
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.108837273979187
+Accuracy 0.6434
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.079346573448181
+Accuracy 0.6591
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.089771576499939
+Accuracy 0.6596
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0825219573020934
+Accuracy 0.6591
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0578127752304076
+Accuracy 0.6536
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1978094383239746
+Accuracy 0.6194
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0846592220306397
+Accuracy 0.6404
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.117980178642273
+Accuracy 0.6288
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.3052216526031495
+Accuracy 0.5324
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1374435945510863
+Accuracy 0.6212
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 0.9875091401100159
+Accuracy 0.6712
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0112744297981262
+Accuracy 0.6795
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.030560783481598
+Accuracy 0.7015
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1057874820709228
+Accuracy 0.6914
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0190803452491761
+Accuracy 0.7123
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.2794898913383483
+Accuracy 0.6871
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.211671492767334
+Accuracy 0.7209
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1476473263740539
+Accuracy 0.7255
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.4421228569030762
+Accuracy 0.4771
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0768342874526977
+Accuracy 0.6235
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.0251287071228028
+Accuracy 0.647
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 0.9148477031707763
+Accuracy 0.6957
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 0.8989280371665954
+Accuracy 0.7217
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 0.9064733610630036
+Accuracy 0.7335
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1056018463611603
+Accuracy 0.7372
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1801379002571106
+Accuracy 0.7477
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 0.9496747983455658
+Accuracy 0.7576
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_RMSprop: 
+Loss 1.1451821052074433
+Accuracy 0.7623
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.084886845779419
+Accuracy 0.6535
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.0573500712394714
+Accuracy 0.6457
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1327312321662903
+Accuracy 0.635
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.3186905018806458
+Accuracy 0.6211
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1245628143310546
+Accuracy 0.645
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1968331847190856
+Accuracy 0.6446
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.185914037322998
+Accuracy 0.6341
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1193749723434447
+Accuracy 0.6379
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.159066473197937
+Accuracy 0.6549
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1519241738319397
+Accuracy 0.6405
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.2593206005096436
+Accuracy 0.5641
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.2533351078033448
+Accuracy 0.5782
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.0077168169975281
+Accuracy 0.6663
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.0781744912147522
+Accuracy 0.677
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.031407245349884
+Accuracy 0.7088
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.0152502635002136
+Accuracy 0.7054
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1094708652973175
+Accuracy 0.7027
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1284569542884826
+Accuracy 0.7216
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.1350329425811767
+Accuracy 0.7317
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.2041606415748596
+Accuracy 0.7327
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.2696346752166747
+Accuracy 0.5491
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.108646195602417
+Accuracy 0.6123
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 0.9958543368339539
+Accuracy 0.6507
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 0.944579772567749
+Accuracy 0.6853
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 0.9020195382118225
+Accuracy 0.7101
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 0.9582314682006836
+Accuracy 0.7286
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.161711618423462
+Accuracy 0.7065
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 0.9604875195026398
+Accuracy 0.7636
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.220117475605011
+Accuracy 0.7391
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_RMSprop: 
+Loss 1.4559274943351745
+Accuracy 0.7416
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0728557887077332
+Accuracy 0.6508
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0857145986557006
+Accuracy 0.6593
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0246250014305114
+Accuracy 0.6699
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0243560806274414
+Accuracy 0.6622
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.000706495475769
+Accuracy 0.6707
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0218773440361022
+Accuracy 0.662
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0222069018363953
+Accuracy 0.6652
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.074718297767639
+Accuracy 0.6595
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.055139364528656
+Accuracy 0.6472
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0457672262191773
+Accuracy 0.6713
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.2298419328689576
+Accuracy 0.5604
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0192558141708374
+Accuracy 0.6543
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.985919779586792
+Accuracy 0.6788
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9046350075721741
+Accuracy 0.7037
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9431218193054199
+Accuracy 0.6992
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.929937418460846
+Accuracy 0.715
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9295277846336365
+Accuracy 0.7207
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8523791094779968
+Accuracy 0.7322
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9375514063835144
+Accuracy 0.7261
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8971711935043335
+Accuracy 0.7431
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.371809696006775
+Accuracy 0.5026
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.1036784112930298
+Accuracy 0.6162
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9963270959854126
+Accuracy 0.6531
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9088609467506409
+Accuracy 0.694
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8490466372489929
+Accuracy 0.7195
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8409641485214233
+Accuracy 0.7471
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8333121417045594
+Accuracy 0.7474
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.9552640902519226
+Accuracy 0.7588
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 0.8829087696075439
+Accuracy 0.7614
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_glorot_normal_0.0_dropout_Adamax: 
+Loss 1.0383550300121307
+Accuracy 0.7665
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_2_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.045542317390442
+Accuracy 0.6623
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_4_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9948445550918579
+Accuracy 0.6728
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_8_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0216161613464356
+Accuracy 0.6661
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_16_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9929874028205872
+Accuracy 0.6711
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_32_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0176520546913146
+Accuracy 0.6566
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_64_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0508209643363953
+Accuracy 0.6673
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_128_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9692047986030579
+Accuracy 0.6762
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_256_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0443732892990112
+Accuracy 0.6664
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_512_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0383942575454712
+Accuracy 0.6685
+
+Scores for neural network model cnn_cifar_fine_tuned_test_1_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.0121526376724244
+Accuracy 0.66
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_2_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.222183941745758
+Accuracy 0.5648
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_4_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.039247193622589
+Accuracy 0.6386
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_8_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9637504137992859
+Accuracy 0.6812
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_16_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8962444749832154
+Accuracy 0.7021
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_32_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9602397038459778
+Accuracy 0.7036
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_64_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8534030707359314
+Accuracy 0.7296
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_128_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8470420015335083
+Accuracy 0.7304
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_256_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9169328048229217
+Accuracy 0.7276
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_512_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.926177597618103
+Accuracy 0.7322
+
+Scores for neural network model cnn_cifar_fine_tuned_test_2_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8925805190086364
+Accuracy 0.7417
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_2_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.3719100624084473
+Accuracy 0.4961
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_4_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 1.1259431146621703
+Accuracy 0.605
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_8_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9377027949333191
+Accuracy 0.6727
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_16_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8737654911994934
+Accuracy 0.7124
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_32_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8917516900062561
+Accuracy 0.7153
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_64_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8520637771606445
+Accuracy 0.7464
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_128_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8268379764080047
+Accuracy 0.7555
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_256_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9847713744163513
+Accuracy 0.7689
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_512_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.9965322117328643
+Accuracy 0.7732
+
+Scores for neural network model cnn_cifar_fine_tuned_test_3_hidden_layers_1024_neurons_he_normal_0.0_dropout_Adamax: 
+Loss 0.8337538545370102
+Accuracy 0.7761
+

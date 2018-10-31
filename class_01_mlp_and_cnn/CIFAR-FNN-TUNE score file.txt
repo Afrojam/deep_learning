@@ -1,0 +1,4 @@
+Scores for neural network model fnn_cifar_cifar_tuned__2_hidden_layers_110_neurons_glorot_normal_0.2_dropout_0.0_regularization_Adamax: 
+Loss 1.4435564050674439
+Accuracy 0.4833
+

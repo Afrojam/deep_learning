@@ -1,0 +1,4 @@
+Scores for neural network model cnn_cifar_all_cnn_tuned: 
+Loss 0.4954508630156517
+Accuracy 0.8541
+
