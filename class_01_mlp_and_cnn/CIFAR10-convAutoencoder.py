@@ -7,7 +7,7 @@ from keras.models import Model
 from keras.datasets import cifar10
 from keras.utils import np_utils
 from keras.models import Sequential
-from keras.layers import Dense, Conv2D, MaxPooling2D, UpSampling2D, Flatten, Reshape
+from keras.layers import Dense, Conv2D, MaxPooling2D, UpSampling2D, Flatten, Reshape, Dropout
 # from keras.models import model_from_json #to load a model from a json file.
 
 import matplotlib
@@ -26,14 +26,14 @@ n_hlayers = 3 #more than 3 hidden layers shrinks the image too much. Try only co
 initial_layer_neurons = 32
 neurons = 200
 layers = 6
-n_epochs = 50
+n_epochs = 500
 n_batch_size = 128
 dropout_list = [0.0, 0.2, 0.4, 0.6]
 dropout = 0.
 kernel_initializer_list = ['glorot_normal', 'he_normal']
 batch_normalization = False
 neurons_list = np.power(2,range(1,11))
-activation = "relu"
+activation = "selu"
 
 # paths and file names
 plots_folder = Path("plots/autoencoder_cnn")
@@ -104,29 +104,52 @@ if __name__ == "__main__":
     y_train = np_utils.to_categorical(y_train, 10)
     y_test = np_utils.to_categorical(y_test, 10)
 
+    kernel_initializer = kernel_initializer_list[0]
+
+    #encoder part
     autoencoder = Sequential()
-    autoencoder.add(Conv2D(32, (3,3), strides = 1, padding = 'same', activation = 'relu', input_shape=x_train.shape[1:]))
+    autoencoder.add(Conv2D(192, (3,3), strides = 1, padding = 'same', activation = activation, kernel_initializer = kernel_initializer, input_shape=x_train.shape[1:]))
     autoencoder.add(MaxPooling2D((2,2), padding = 'same'))
-    autoencoder.add(Conv2D(16, (3, 3), strides=1, padding='same', activation='relu'))
+    autoencoder.add(Dropout(0.2))
+    autoencoder.add(Conv2D(96, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
     autoencoder.add(MaxPooling2D((2, 2), padding='same'))
-    autoencoder.add(Conv2D(8, (3, 3), strides=1, padding='same', activation='relu'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(48, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
     autoencoder.add(MaxPooling2D((2, 2), padding='same'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(24, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
+    autoencoder.add(MaxPooling2D((2, 2), padding='same'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(6, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
+    autoencoder.add(MaxPooling2D((2, 2), padding='same'))
+    autoencoder.add(Dropout(0.5))
+
     #Encoder output layers
     print("Encoder outputs shape:")
     for layer in autoencoder.layers:
         print(layer.output_shape)
 
     #visualization pruposes
-    autoencoder.add(Flatten())
-    autoencoder.add(Reshape((4,4,8)))
+    # autoencoder.add(Flatten())
+    # autoencoder.add(Reshape((4,4,8)))
 
-    autoencoder.add(Conv2D(8, (3,3), strides = 1, padding = 'same', activation = 'relu'))
+    #decoder part
+    autoencoder.add(Conv2D(6, (3,3), strides = 1, padding = 'same', activation = activation, kernel_initializer = kernel_initializer))
     autoencoder.add(UpSampling2D((2,2)))
-    autoencoder.add(Conv2D(16, (3, 3), strides=1, padding='same', activation='relu'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(24, (3,3), strides = 1, padding = 'same', activation = activation, kernel_initializer = kernel_initializer))
+    autoencoder.add(UpSampling2D((2,2)))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(48, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
     autoencoder.add(UpSampling2D((2, 2)))
-    autoencoder.add(Conv2D(32, (3, 3), strides=1, padding='same', activation='relu'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(96, (3, 3), strides=1, padding='same', activation=activation, kernel_initializer = kernel_initializer))
     autoencoder.add(UpSampling2D((2, 2)))
-    autoencoder.add(Conv2D(3, (3,3), padding='same', activation='sigmoid'))
+    autoencoder.add(Dropout(0.5))
+    autoencoder.add(Conv2D(192, (3,3), strides = 1, padding = 'same', activation = activation, kernel_initializer = kernel_initializer))
+    autoencoder.add(UpSampling2D((2,2)))
+    autoencoder.add(Dropout(0.2))
+    autoencoder.add(Conv2D(3, (3,3), padding='same', activation='sigmoid', kernel_initializer = kernel_initializer))
     #Decoder outputs
     print("Full outputs shape")
     for layer in autoencoder.layers:
@@ -135,7 +158,7 @@ if __name__ == "__main__":
     autoencoder.compile(optimizer="adam", loss='categorical_crossentropy', metrics=['accuracy'])
     autoencoder.summary()
 
-    encoder = Model(inputs = autoencoder.inputs, outputs= autoencoder.get_layer('flatten_1').output)
+    # encoder = Model(inputs = autoencoder.inputs, outputs= autoencoder.get_layer('flatten_1').output)
     #encoder.summary()
 
     history = autoencoder.fit(x_train, x_train, validation_data=(x_test, x_test), batch_size=n_batch_size,

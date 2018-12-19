@@ -78,13 +78,13 @@ if __name__=="__main__":
     # Neural network architecture
     # CNN
     nn = Sequential()
-    nn.add(Conv2D(32, kernel_size=(3,3), activation = 'relu', input_shape=x_train.shape[1:]))
+    nn.add(Conv2D(32, kernel_size=(3,3),kernel_initializer=kernel_initializer, activation = 'relu', input_shape=x_train.shape[1:]))
     nn.add(MaxPooling2D(pool_size=(2,2)))
-    nn.add(Conv2D(64,(3,3), activation = 'relu'))
+    nn.add(Conv2D(64,(3,3),kernel_initializer=kernel_initializer, activation = 'relu'))
     nn.add(MaxPooling2D(pool_size=(2,2)))
     nn.add(Flatten())
-    nn.add(Dense(128, activation='relu'))
-    nn.add(Dense(10, activation='softmax'))
+    nn.add(Dense(128,kernel_initializer=kernel_initializer, activation='relu'))
+    nn.add(Dense(10,kernel_initializer=kernel_initializer, activation='softmax'))
 
     # Model visualization
     # The plot of the model needs pydot, graphviz and pydot-ng
@@ -106,8 +106,7 @@ if __name__=="__main__":
         model_name = original_model_name
         model_name = model_name + optimizer_name
 
-        history = nn.fit(x_train, y_train, validation_data=(x_test, y_test), batch_size=n_batch_size, epochs=n_epochs,
-                         kernel_initializer=kernel_initializer)
+        history = nn.fit(x_train, y_train, validation_data=(x_test, y_test), batch_size=n_batch_size, epochs=n_epochs)
 
         # Evaluate the model
         score = nn.evaluate(x_test, y_test, verbose=0)

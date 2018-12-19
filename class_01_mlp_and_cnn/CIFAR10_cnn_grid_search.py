@@ -128,14 +128,14 @@ if __name__ == "__main__":
                 neurons_accuracy = []
                 for neurons in neurons_list:
                     nn = Sequential()
-                    nn.add(Conv2D(initial_layer_neurons, kernel_size=(3, 3), padding='same', strides=1, activation=activation, input_shape=x_train.shape[1:]))
+                    nn.add(Conv2D(initial_layer_neurons, kernel_size=(3, 3), padding='same', strides=1, activation=activation, kernel_initializer=kernel_initializer, input_shape=x_train.shape[1:]))
                     nn.add(MaxPooling2D(pool_size=(2, 2)))
                     if dropout != 0.:
                         nn.add(Dropout(dropout))
                     if batch_normalization:
                         nn.add(BatchNormalization())
                     for i in range(layers):
-                        nn.add(Conv2D(neurons, (3, 3), padding='same', strides=1, activation=activation))
+                        nn.add(Conv2D(neurons, (3, 3), padding='same', strides=1, kernel_initializer=kernel_initializer, activation=activation))
                         nn.add(MaxPooling2D(pool_size=(2, 2)))
                         if dropout != 0.:
                             nn.add(Dropout(dropout))

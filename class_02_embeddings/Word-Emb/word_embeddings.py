@@ -1,5 +1,8 @@
 import os
 import numpy as np
+from pathlib import Path
+
+output_path = Path('class_02_embeddings/Word-Emb/word_embeddings')
 
 #Create a dictionary/map to store the word embeddings
 embeddings_index = {}
@@ -8,7 +11,7 @@ embeddings_index = {}
 #These can be dowloaded from https://nlp.stanford.edu/projects/glove/
 #e.g., wget http://nlp.stanford.edu/data/glove.6B.zip
 embeddings_size = "300"
-f = open(os.path.join('.', 'class_02_embeddings\glove.6B.'+embeddings_size+'d.txt'), encoding='utf-8')
+f = open(os.path.join('.', 'class_02_embeddings/Word-Emb/word_embeddings/glove.6B.'+embeddings_size+'d.txt'), encoding='utf-8')
 
 #Process file and load into structure
 for line in f:
@@ -19,7 +22,7 @@ for line in f:
 f.close()
 
 #Compute distances among first X words (depending on your machine)
-max_words = 30
+max_words = 120
 from sklearn.metrics.pairwise import pairwise_distances
 mat = pairwise_distances(list(embeddings_index.values())[:max_words])
 
@@ -30,7 +33,9 @@ np.fill_diagonal(mat, np.inf)
 min_0 = np.argmin(mat,axis=0)
 
 #Save the pairs to a file
-f_out = open('similarity_pairs_dim'+embeddings_size+'_first'+str(max_words)+'.txt','w')
+f_out_name = 'similarity_pairs_dim'+embeddings_size+'_first'+str(max_words)+'.txt'
+f_out_path = output_path / f_out_name
+f_out = open(str(f_out_path ),'w')
 for i,item in enumerate(list(embeddings_index.keys())[:max_words]):
     f_out.write(str(item)+' '+str(list(embeddings_index.keys())[min_0[i]])+'\n')
 

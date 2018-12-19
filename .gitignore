@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+out
+gen
+/class_02_embeddings/UPC-MAI-DL.github.io-master/
+/class_02_embeddings/Img-Emb/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+/class_02_embeddings/Others/
+/class_01_mlp_and_cnn/autonomous_lab/plots/
+/class_03_recurrent_nets/autonomous_lab/data.zip
+/class_02_embeddings/Word-Emb/word_embeddings/
+/class_03_recurrent_nets/guided_lab/submit_job.cmd

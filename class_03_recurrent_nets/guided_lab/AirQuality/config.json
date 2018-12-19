@@ -1,0 +1,25 @@
+{
+  "data": {
+    "datanames": ["GEltham", "GWesthorne", "BSladeGreen",  "GWoolwich"],
+    "vars": [0,1,2,3,4],
+    "datasize": 35064,
+    "testsize": 8784,
+    "dataset": 0,
+    "lag": 12,
+    "ahead": 1
+  },
+  "arch": {
+    "neurons": 32,
+    "rnn": "GRU",
+    "drop": 0.0,
+    "nlayers": 1,
+    "activation": "relu",
+    "activation_r": "hard_sigmoid"
+  },
+  "training": {
+    "batch": 128,
+    "epochs": 25,
+    "optimizer": "adamax",
+    "lrate": 0.001
+  }
+}
